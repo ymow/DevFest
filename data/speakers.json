@@ -121,15 +121,18 @@
         "id": 6,
         "featured": false,
         "name": "Ray Shih",
-        "title": "",
-        "company": "",
-        "companyLogo": "",
+        "title": "Senior Software Engineer",
+        "company": "Mobiusbobs",
+        "companyLogo": "/images/logos/pamily.jpg",
         "country": "Taiwan",
-        "photoUrl": "",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "/images/people/ray_shih.jpg",
+        "shortBio": "Fullstack engineer、Functional Programmer，興趣是學習 Haskell 跟 machine learning。",
+        "bio": "NTU CSIE Master、Fullstack engineer、Functional Programmer，興趣是學習 Haskell 跟 machine learning。",
         "tags": [
-
+          "Fullstack",
+          "Function Programming",
+          "React Native",
+          "Android"
         ],
         "badges": [
 
