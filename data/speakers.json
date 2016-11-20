@@ -196,14 +196,19 @@
         "featured": false,
         "name": "Williams",
         "title": "Android Engineer",
-        "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
-        "companyLogo": "../images/logos/TADSG_logo.png",
+        "company": "KKBOX",
+        "companyLogo": "https://www.kkbox.com/images/fb/kkbox_logo_1200.jpg",
         "country": "Taiwan",
-        "photoUrl": "",
-        "shortBio": "Android enthusiast.",
-        "bio": "Currently Android Engineer.",
+        "photoUrl": "../images/people/william_wang.jpg",
+        "shortBio": "靠寫程式混口飯吃的哲學愛好者，經常探究更好的效能和架構",
+        "bio": "KKBOX 的 Android 工程師，負責開發新功能及設計 Framework 以提升 Performance and Testability",
         "tags": [
-            "Android"
+            "Android",
+            "Java",
+            "Unit Test",
+            "CI",
+            "Agile",
+            "Scrum"
         ],
         "badges": [
             {
