@@ -4,3 +4,6 @@ node_modules
 build
 .idea/
 .firebaserc
+
+.DS_Store
+*.swp
