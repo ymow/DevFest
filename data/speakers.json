@@ -47,13 +47,13 @@
     "3": {
         "id": 3,
         "featured": false,
-        "name": "",
+        "name": "Caesar Chi",
         "title": "",
         "company": "",
         "companyLogo": "",
-        "country": "",
-        "photoUrl": "",
-        "shortBio": "",
+        "country": "Taipei, Taiwan",
+        "photoUrl": "https://avatars.io/facebook/clonncd/large",
+        "shortBio": "Full stack tech manager, distribution collaborator  and open source project developer, focus on Node.js, JavaScript language.",
         "bio": "",
         "tags": [
 

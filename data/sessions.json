@@ -415,13 +415,13 @@
   },
   "103": {
     "id": 103,
-    "title": "TBD",
-    "description": "",
+    "title": "Morden F2E Education, Think of Progressive Web Apps",
+    "description": "- how we learn f2e<br>- education situation<br>- what we think about f2e<br>- key course we have to learn.<br>- Progressive web apps learning.<br>- Progressive web apps as a base courses for front end.<br>- Feature is now for front end.",
     "speakers": [
       3
     ],
     "tags": [
-
+      "Progressive Web Apps"
     ],
     "presentation":""
   },
