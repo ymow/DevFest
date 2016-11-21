@@ -148,12 +148,12 @@
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Andy",
+        "name": "Andy Lin",
         "title": "Full-Stack Engineer",
         "company": "QNAP System Inc.",
         "companyLogo": "https://download.qnap.com/Origin/i/images/q_logo.jpg",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://lh3.googleusercontent.com/PjtLz_h8CN6tTJTGlQ6vXMPCrxnquPWLdsmzbRKYfG8-PQTLZmTHbQSwuWoqgwN2NNTu2BC5FeVSRrE=w2880-h1554",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-andy.jpg",
         "shortBio": "QNAP 全端攻城獅",
         "bio": "",
         "tags": [
@@ -228,12 +228,12 @@
     "10": {
         "id": 10,
         "featured": true,
-        "name": "Araon Lai / 賴顗安",
+        "name": "Aaron Lai / 賴顗安",
         "title": "Data Scientist",
         "company": "GliaCloud Co. Ltd.",
         "companyLogo": "https://pbs.twimg.com/profile_images/641885889656819714/qdNlR-mT.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://lh4.googleusercontent.com/1MzoVFxc7SHFczUaY_fq_ItnvcAvzAgEG6wdoCmE0eYBAdNwjac6RFftsMki2E0OGAM4fEu3ngLT4GM=w2880-h1554",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-aaron.jpg",
         "shortBio": "Yi-An Lai is a Data Scientist in GliaCloud and participates in the core development of GliaStudio, an artificial intelligence video creation platform.",
         "bio": "Yi-An Lai is a Data Scientist in GliaCloud and participates in the core development of GliaStudio, an artificial intelligence video creation platform. Yi-An Lai has broad interests in Machine Learning, Deep Learning, and Recommender systems. He is also a travel lover.",
         "tags": [
