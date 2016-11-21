@@ -126,27 +126,71 @@
     "members": [
       {
         "name": "Simon Su",
-        "photoUrl": "",
+        "photoUrl": "https://developers.google.com/experts/img/user/106161812829884405374.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "",
+            "link": "https://plus.google.com/106161812829884405374",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "",
+            "link": "https://www.facebook.com/peihsinsu",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "",
+            "link": "https://twitter.com/peihsinsu",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "",
+            "link": "http://peihsinsu.blogspot.tw/",
             "name": "Blog"
+          }
+        ],
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Platform User Group",
+    "members": [
+      {
+        "name": "Sunny Hu",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-sunnyhu.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/sunny.hu.573",
+            "name": "Facebook"
+          },
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+sunnyHU",
+            "name": "Google+"
+          }
+        ],
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Platform User Group",
+    "members": [
+      {
+        "name": "Cage Chung",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-cage.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cage.chung",
+            "name": "Facebook"
+          },
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+KaiChuChung",
+            "name": "Google+"
           }
         ],
         "title": "Organizer"
