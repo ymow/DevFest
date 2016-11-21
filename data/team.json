@@ -157,8 +157,8 @@
     "title": "Taiwan Android Developer Study Group",
     "members": [
       {
-        "name": "Takuma Lee / 李思諒",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOaAAAAJDJkOGYzOTNmLWU1OTktNGIxNS1hYjM5LTQyOTY3ZTVjZDc2NA.jpg",
+        "name": "Takuma Lee",
+        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/1380394_871934669492610_2202363353780480404_n.jpg?oh=f2f9cbfb4b76f87465e55d268b49fc16&oe=58C52B8E",
         "socials": [
           {
             "icon": "gplus",
@@ -167,7 +167,7 @@
           },
           {
             "icon": "facebook",
-            "link": "",
+            "link": "https://www.facebook.com/vmgsahm1",
             "name": "Facebook"
           },
           {
@@ -177,7 +177,7 @@
           },
           {
             "icon": "website",
-            "link": "",
+            "link": "http://takuma-nekomayoi-blog.logdown.com/",
             "name": "Blog"
           }
         ],
