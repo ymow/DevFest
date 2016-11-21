@@ -129,13 +129,17 @@
         "shortBio": "Fullstack engineer、Functional Programmer，興趣是學習 Haskell 跟 machine learning。",
         "bio": "NTU CSIE Master、Fullstack engineer、Functional Programmer，興趣是學習 Haskell 跟 machine learning。",
         "tags": [
+          "Android",
           "Fullstack",
           "Function Programming",
-          "React Native",
-          "Android"
+          "React Native"
         ],
         "badges": [
-
+            {
+              "name": "Mobiusbobs",
+              "description": "Senior Sofware Engineer",
+              "link": "/images/logos/pamily.jpg"
+            }
         ],
         "socials": [
 
@@ -196,7 +200,7 @@
         "featured": false,
         "name": "Williams",
         "title": "Android Engineer",
-        "company": "KKBOX",
+        "company": "KKBOX Inc.",
         "companyLogo": "https://www.kkbox.com/images/fb/kkbox_logo_1200.jpg",
         "country": "Taiwan",
         "photoUrl": "../images/people/william_wang.jpg",
