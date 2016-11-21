@@ -185,6 +185,56 @@
       }
     ]
   },
+    {
+    "title": "Taiwan Android Developer Study Group",
+    "members": [
+      {
+        "name": "YI-Teng Wang/ 王易騰",
+        "photoUrl": "http://68.media.tumblr.com/avatar_ca670c90a334_128.png,
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/106916437160362325642",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/yumi.wang.568",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Co-organizer"
+      },
+  {
+    "title": "Taiwan Android Developer Study Group",
+    "members": [
+      {
+        "name": "Ymow Wu / 吳俊逸",
+        "photoUrl": "http://68.media.tumblr.com/avatar_ca670c90a334_128.png,
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+YmowWu",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ymow.wu",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/ymow",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://ymow.net/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Co-organizer"
+      },
   {
     "title": "Program Committee",
     "members": [
