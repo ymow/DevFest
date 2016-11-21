@@ -230,6 +230,28 @@
     ]
   },
   {
+    "title": "Taiwan Android Developer Study Group",
+    "members": [
+      {
+        "name": "HsinHung / 林信宏",
+        "photoUrl": "http://i.imgur.com/Qb6fAyZ.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/108663180295687550055",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/gn00540683",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Co-organizer"
+      }
+    ]
+  },
+  {
     "title": "Program Committee",
     "members": [
       {
