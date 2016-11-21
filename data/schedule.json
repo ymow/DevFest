@@ -1,6 +1,6 @@
 [{
     "date": "2016-12-03",
-    "dateReadable": "December 3",
+    "dateReadable": "12月3日",
     "tracks": [{
         "title": "Room 101"
     }, {
@@ -8,9 +8,9 @@
     }, {
         "title": "Room 103"
     }, {
-        "title": "Room 301"
+        "title": "Room 204"
     }, {
-        "title": "Room 302"
+        "title": "Room 205"
     }],
     "timeslots": [{
         "startTime": "08:30",
